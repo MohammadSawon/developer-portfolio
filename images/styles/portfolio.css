@@ -236,6 +236,9 @@ nav ul {
     
     padding: 100px;
 }
+.contract-content img{
+    padding: 10px;
+}
 
 .contract-title {
     font-size: 35px;
