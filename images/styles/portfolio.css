@@ -190,7 +190,7 @@ nav ul {
     font-weight: 700;
     margin-top: 130px;
     margin-bottom: 109px;
-    margin-bottom:40px ;
+    margin-bottom: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -205,7 +205,7 @@ nav ul {
 .resume-subtitle {
     font-size: 25px;
     font-weight: 700;
-    margin-top:30px;
+    margin-top: 30px;
     color: #757575;
 }
 
@@ -213,10 +213,71 @@ nav ul {
     font-size: 16px;
     font-weight: 400;
     color: #757575;
-    margin-bottom: 30px ;
+    margin-bottom: 30px;
     margin-top: 10px;
 }
-.resume-btn{
-    text-align:center;
+
+.resume-btn {
+    text-align: center;
     margin-top: 50px;
+}
+
+/* contract section styles */
+
+.contract-section{
+    background-color: #FFF8F3;
+}
+
+.contract-content {
+    display: flex;
+    margin: 0 280px;
+    gap: 117px;
+    margin-top: 117px;
+    
+    padding: 100px;
+}
+
+.contract-title {
+    font-size: 35px;
+    font-weight: 700;
+    color: #181818;
+    margin-top: 130px;
+}
+
+.contract-description {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.contract-content img {
+    width: 24px;
+    height: 24px;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+.input-name {
+    width: 461px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFF;
+    margin-top: 24px;
+    padding: 18px 30px;
+    border: 0;
+}
+
+.input-text {
+    width: 461px;
+    height: 180px;
+    border-radius: 5px;
+    background: #FFF;
+    margin-top: 24px;
+    padding: 18px 30px;
+    border: 0;
+    margin-bottom: 20px;
+}
+
+.message-div{
+    margin-left: 200px;
 }
